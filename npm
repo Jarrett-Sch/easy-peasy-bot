@@ -1,0 +1,1 @@
+npm install --save username/repo#branch-name-or-commit-or-tag
